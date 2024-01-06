@@ -1,4 +1,4 @@
-![Open Source at Microsoft](https://github.com/omeys/.github/blob/main/FaceBookBanner.png) 
+![Open Source at Omeys](https://github.com/omeys/.github/blob/main/profile/omeys-profile.png) 
 
 ## Get Involved
 
