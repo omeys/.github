@@ -1,15 +1,15 @@
-![Open Source at Omeys](https://github.com/omeys/.github/blob/main/profile/omeys-profile.png) 
+![Innovation at Omeys](https://github.com/omeys/.github/blob/main/profile/omeys-profile.png) 
 
 ## Get Involved
 
-Right now, open communities are building amazing software together, and there are excellent "good first issue" opportunities, if you're looking to get involved.
+Join us in our journey of developing groundbreaking software across various sectors. Omeys is a hub for collaborative, innovative development in fields like banking, healthcare, retail, automotive, energy, space, and AI. We welcome fresh ideas and passionate contributors.
 
-* [Explore featured projects](https://opensource.microsoft.com/projects/)
-* [Explore open source jobs at Microsoft](https://careers.microsoft.com/us/en/search-results?keywords=open%20source)
-* [Apply for Azure credits for open source projects](https://opensource.microsoft.com/azure-credits)
+* [Discover our featured projects](https://projects.omeys.com)
+* [Explore career opportunities at Omeys](https://careers.omeys.com)
+* [Apply for Omeys Innovation Grants for groundbreaking projects](https://grants.omeys.com)
 
-Visit [opensource.microsoft.com](https://opensource.microsoft.com) to learn more!
+Visit [omeys.com](https://omeys.com) to learn more about our mission and values!
 
 ----
 
-Microsoft projects adopt the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/).
+Omeys projects adhere to the [Omeys Open Innovation Code of Conduct](https://omeys.com/codeofconduct/). For more information, see the [Code of Conduct FAQ](https://omeys.com/codeofconduct/faq/).
