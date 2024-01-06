@@ -1,5 +1,4 @@
-![Open Source at Omeys](![image](https://github.com/omeys/.github/assets/7599193/38a3bdc7-8fd7-4700-9405-4afe5a26e282)
-) 
+![Open Source at Omeys](https://github.com/omeys/.github/blob/main/FaceBookBanner.png)
 
 ## Get Involved
 
